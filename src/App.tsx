@@ -12,7 +12,6 @@ function App() {
         <Navbar />
         <Hero />
         <NewCourses />
-        <ExistingCourses />
       </div>
     </>
   )
